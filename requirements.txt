@@ -1,0 +1,10 @@
+# Core Data Science Libraries
+pandas
+matplotlib
+
+# Machine Learning Libraries
+scikit-learn
+
+# Deep Learning Libraries
+tensorflow
+keras
